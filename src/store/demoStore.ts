@@ -1,7 +1,7 @@
 import { create } from 'zustand'
 
 /**
- * @file: three.js 相关 store
+ * @file: demoStore.ts
  */
 export interface DemoStoreProps {
   demo: number

@@ -1,5 +1,5 @@
 export async function getInitialState(): Promise<{ name: string }> {
-  return { name: '3d-editor' }
+  return { name: 'gong-example-react-app' }
 }
 
 export const layout = () => {
